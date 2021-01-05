@@ -1,4 +1,6 @@
 [cache]
     gs = gscache
+[core]
+    remote = gscache
 ['remote "gscache"']
-    url = gs://dvc-exmple-2
+    url = gs://dvc-example-2
