@@ -2,3 +2,4 @@
     remote = myremote
 ['remote "myremote"']
     url = gs://dvc-example-1/
+    credentialpath = ../data/raw/config.json
