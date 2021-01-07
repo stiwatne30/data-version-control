@@ -1,0 +1,6 @@
+[core]
+    remote = training_data
+[cache]
+    gs = training_data
+['remote "training_data"']
+    url = gs://dvc-example-1/
